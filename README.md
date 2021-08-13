@@ -10,6 +10,9 @@
   This mini-course is intended to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.
   
 ## SQL for Data Science with Python
+  Much of the world's data resides in databases. SQL (or Structured Query Language) is a powerful language which is used for communicating with and extracting data from databases. The emphasis in this course is on hands-on and practical learning . I worked with real databases, real data science tools, and real-world datasets. I also created a database instance in the cloud. Through a series of hands-on labs, I practiced building and running SQL queries. I also learnt how to access databases from Jupyter notebooks using SQL and Python.
+
+## Data Analysis with Python
   I learnt how to analyze data using Python. This course took me from the basics of Python to exploring many different types of data. I gained knowledge on how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more!
 
       Topics covered:
@@ -21,6 +24,9 @@
       5) Building machine learning Regression models
       6) Building data pipelines
 
+
+  ## Data Visualization with Python
+    One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an approachable and stimulating way. Learning how to leverage a software tool to visualize data will also enable you to extract information, better understand the data, and make more effective decisions.
 
 
 
