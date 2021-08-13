@@ -15,21 +15,20 @@
 ## Data Analysis with Python
   I learnt how to analyze data using Python. This course took me from the basics of Python to exploring many different types of data. I gained knowledge on how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more!
 
-      Topics covered:
+  Topics covered:
 
-      1) Importing Datasets
-      2) Cleaning the Data
-      3) Data frame manipulation
-      4) Summarizing the Data
-      5) Building machine learning Regression models
-      6) Building data pipelines
+  1) Importing Datasets
+  2) Cleaning the Data
+  3) Data frame manipulation
+  4) Summarizing the Data
+  5) Building machine learning Regression models
+  6) Building data pipelines
 
-
-  ## Data Visualization with Python
-    One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an approachable and stimulating way. Learning how to leverage a software tool to visualize data will also enable you to extract information, better understand the data, and make more effective decisions.
-
-
-
+## Data Visualization with Python
+   One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an approachable and stimulating way. Learning how to leverage a software tool to visualize data enabled me to extract information, better understand the data, and make more effective decisions. Various techniques have been developed for presenting data visually but in this course. I used several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
+   
+## Data Analyst Capstone Project
+  In this course, I applied various Data Analytics skills and techniques that I learnt as part of the previous courses in the IBM Data Analyst Professional Certificate. I completed the tasks of collecting data from multiple sources, performing exploratory data analysis, data wrangling and preparation, statistical analysis and mining the data, creating charts and plots to visualize data, and building an interactive dashboard. The project culminated with a presentation of a data analysis report, with an executive summary for the various stakeholders in the organization.
 
 
 
